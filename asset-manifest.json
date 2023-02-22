@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/WEPortfolio/static/js/main.c556a624.js",
+    "pdf.worker.js": "/WEPortfolio/e7e915313973ba1d49f9bb2a1998626e.js",
+    "static/media/TommasoFrambaResume2023.pdf": "/WEPortfolio/static/media/TommasoFrambaResume2023.1554591299a6c6998861.pdf",
+    "index.html": "/WEPortfolio/index.html",
+    "main.c556a624.js.map": "/WEPortfolio/static/js/main.c556a624.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c556a624.js"
+  ]
+}
